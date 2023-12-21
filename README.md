@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Senthilnadhan Ramasamy](http://senthilnadhan.com)
+## Hi there 👋 I'm [Senthilnadhan Ramasamy](http://senthilnadhan.com)
 
 A seasoned Technical Team Lead with a passion for leading cross-functional teams, managing cloud-based applications, delivering scalable,secure solutions.
 
