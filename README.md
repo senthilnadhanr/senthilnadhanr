@@ -2,8 +2,9 @@
 
 A seasoned Technical Team Lead with a passion for leading cross-functional teams, managing cloud-based applications, delivering scalable,secure solutions.
 
-- 💡 I've refined myself in software development, troubleshooting, solutionizing, performance optimization, team management, cloud deployment, and technical leadership.
-- 🌱 I’m currently learning System Design, Dev Ops, Automation, Security Testing
+- 🔭 I've refined myself in software development, troubleshooting, solutionizing, performance optimization, team management, cloud deployment, and technical leadership.
+- 🌱 I’m currently learning System Design, Dev Ops, Automation
+- 💡 I'm trying to involve in Security and compliance
 - 👯 I’m looking to collaborate on Performance optimization and troubleshooting
 - 📫 You can reach me at senthilnadhanr@gmail.com
 <!--
