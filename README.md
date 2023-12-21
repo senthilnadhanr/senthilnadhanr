@@ -1,5 +1,9 @@
 ### Hi there 👋
-- 🌱 I’m currently learning
+- 🔭 I'm Senthilnadhan Ramasamy, a seasoned Technical Team Lead with a passion for leading cross-functional teams of developers, managing cloud-based applications, delivering scalable,secure technical solutions. With over 10 years of experience in the field
+- 🌱 I've refined myself in software development, troubleshooting, solutionizing, performance optimizion, team management, cloud deployment, and technical leadership.
+- 🌱 I’m currently learning System Design, Dev Ops, Automation, Security Testing
+- 👯 I’m looking to collaborate on Performance optimizion and troubleshooting
+- 📫 You can reach me at senthilnadhanr@gmail.com
 <!--
 **senthilnadhanr/senthilnadhanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
