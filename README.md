@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm [Senthilnadhan Ramasamy](http://senthilnadhan.com)
 
-A seasoned Technical Team Lead with a passion for leading cross-functional teams, managing cloud-based applications, delivering scalable,secure solutions.
+A seasoned Technical Team Lead with a passion for leading cross-functional teams, managing cloud-based applications, delivering scalable,secure solutions and automation.
 
 - 🔭 I've refined myself in software development, troubleshooting, solutionizing, performance optimization, team management, cloud deployment, and technical leadership.
-- 🌱 I’m currently learning System Design, Dev Ops, Automation
+- 🌱 I’m currently learning System Design, Dev Ops, Infrastructure automation
 - 💡 I'm trying to involve in Security and compliance
 - 👯 I’m looking to collaborate on Performance optimization and troubleshooting
 - 📫 You can reach me at senthilnadhanr@gmail.com
